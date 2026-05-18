@@ -1,4 +1,4 @@
-# ☕ Trio Cafe - DevOps Project
+# Trio Cafe - DevOps Project
 
 A full-stack web application for **Trio Cafe** – a unique concept combining **Books, Coffee, and Flowers**. Developed for the **DevOps for Cloud Computing** course (CSC418) at COMSATS University Islamabad, Lahore Campus.
 
